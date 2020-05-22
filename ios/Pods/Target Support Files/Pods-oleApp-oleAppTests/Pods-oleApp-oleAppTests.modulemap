@@ -1,0 +1,6 @@
+module Pods_oleApp_oleAppTests {
+  umbrella header "Pods-oleApp-oleAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
